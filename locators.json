@@ -1,0 +1,17 @@
+{
+"loginPage":
+      {
+        "userName": "//*[@id='user-name']",
+        "password": "//*[@id='password']",
+        "loginButton": "//*[@id='login-button']"
+      },
+
+"shopping-cart":
+      {
+        "shopping-cart-button":"//*[@data-test='shopping-cart-link']",
+        "itemRemove":"//*[@id='remove-sauce-labs-backpack']",
+        "Checkout":"//*[@id='checkout']",
+        "ContinueShopping":"//*[@id='continue-shopping']"
+      
+      }
+}
